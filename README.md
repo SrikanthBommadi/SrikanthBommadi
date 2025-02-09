@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Dockers & Kubernetes**
 
-- 💬 Ask me about **Terraform ,jenkins,ku**
+- 💬 Ask me about **Terraform ,jenkins,kubernetes**
 
 - 📫 How to reach me **bommadisrikanth1@gmail.com**
 

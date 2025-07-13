@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Srikanth Bommadi</h1>
+<h1 align="center">Hi 👋, I'm Vinod Kumar Inala</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
 - 🔭 I’m currently working on **Version Control (Git): Use Git for managing the codebase and collaboration. Continuous Integration (CI): Set up Jenkins to automatically build and test code on repository updates. Containerization (Docker): Package the app into containers for consistent environments across stages. Container Orchestration (Kubernetes): Use Kubernetes to manage, scale, and deploy the containers. Continuous Deployment (CD): Automate deployment to staging or production with tools like Helm or ArgoCD. Monitoring and Logging: Implement Prometheus/Grafana for monitoring and ELK Stack for centralized logging.**
 
 - 🌱 I’m currently learning **AI & Python & CI/CD**
 
-- 👯 I’m looking to collaborate on **Ansible, Terraform, Jenkins, AWS, Dockers, Kubernetes**
+- 👯 I’m looking to collaborate on **Ansible, Terraform, Jenkins, AWS, Docker, Kubernetes**
 
 - 🤝 I’m looking for help with **Dockers & Kubernetes**
 
 - 💬 Ask me about **Terraform ,jenkins,kubernetes**
 
-- 📫 How to reach me **bommadisrikanth1@gmail.com**
+- 📫 How to reach me **vinodkumar4a3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,7 +2,7 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # ensures all branches are fetched
+          fetch-depth: 0
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -22,13 +22,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Ensure output branch exists
+      - name: Commit & push to output branch
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git checkout -B output || git checkout --orphan output
+          git checkout -B output
           git add dist/
-          git commit -m "Update snake contribution graph" || echo "No changes to commit"
+          git commit -m "Update snake contribution graph" || echo "No changes"
           git push -u origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

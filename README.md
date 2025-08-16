@@ -83,8 +83,12 @@
 - 📝 Blog/Portfolio: *(Add link if available)*  
 
 ---
+<h3 align="center">🐍 Contribution Graph Snake</h3>
 
-### 🐍 Contribution Graph Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/SrikanthBommadi/SrikanthBommadi/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://raw.githubusercontent.com/SrikanthBommadi/SrikanthBommadi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrikanthBommadi/SrikanthBommadi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrikanthBommadi/SrikanthBommadi/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SrikanthBommadi/SrikanthBommadi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>

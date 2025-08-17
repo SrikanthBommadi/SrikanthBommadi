@@ -22,7 +22,7 @@ Hi, I’m **Srikanth Bommadi** 👋 — a passionate **DevOps Engineer** who lov
 📫 **Let’s Connect**  
 - 📧 Email: [bommadisrikanth1@gmail.com](mailto:bommadisrikanth1@gmail.com)  
 - 📱 Phone: [+1 302-525-9755](tel:+13025259755)  
-- 💬 WhatsApp: [Chat with me](https://wa.me/91995905933)  
+- 💬 WhatsApp: [Chat with me](https://wa.me/919959095933)  
 - 🔗 LinkedIn: [srikanthbommadi](https://www.linkedin.com/in/srikanthbommadi/)  
 
 ---
@@ -121,5 +121,5 @@ Hi, I’m **Srikanth Bommadi** 👋 — a passionate **DevOps Engineer** who lov
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrikanthBommadi)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bommadisrikanth1@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-0A66C2?style=for-the-badge&logo=phone&logoColor=white)](tel:+13025259755)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91995905933)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919959095933)  
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bommadisrikanth1)  

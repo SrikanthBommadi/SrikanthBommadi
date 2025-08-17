@@ -11,6 +11,7 @@
 
 ---
 
+
 ### 👨‍💻 About Me
 - 🔧 DevOps Engineer passionate about streamlining deployments and managing scalable cloud infrastructure.  
 - ☁️ Skilled in AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions & more.  
@@ -19,27 +20,10 @@
 
 ---
 
-### 🛠️ DevOps Tools & Technologies
-
-#### 🚀 CI/CD & Automation  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
-
-#### ☁️ Cloud & Containers  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-#### ⚙️ Infrastructure as Code  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-
-#### 🔍 Monitoring & Logging  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) 
-![ELK Stack](https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white)
+### ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,prometheus,grafana,linux,bash,python" />
+</p>
 
 ---
 
@@ -56,6 +40,16 @@
 
 ---
 
+### 📊 GitHub Activity Graph
+[![Srikanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SrikanthBommadi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=SrikanthBommadi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🔄 My DevOps Responsibilities
 
 | Task | Description |
@@ -69,10 +63,27 @@
 
 ---
 
-### 📁 Featured Projects
-- 🚀 [CI/CD Templates](https://github.com/SrikanthBommadi/devops-ci-cd-templates) – Reusable templates for modern CI/CD pipelines.  
-- ☁️ [Terraform AWS Modules](https://github.com/SrikanthBommadi/terraform-modules) – Modular and reusable IaC for AWS services.  
-- 🔍 [Observability Stack](https://github.com/SrikanthBommadi/observability-stack) – ELK, Prometheus & Grafana setup for modern apps.  
+### 🌟 Featured Projects
+<p align="center">
+  <a href="https://github.com/SrikanthBommadi/devops-ci-cd-templates">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrikanthBommadi&repo=devops-ci-cd-templates&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SrikanthBommadi/terraform-modules">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrikanthBommadi&repo=terraform-modules&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SrikanthBommadi/observability-stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrikanthBommadi&repo=observability-stack&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### ✍️ Blog Posts (Coming Soon...)
+<!-- BLOG-POST-LIST:START -->
+- [CI/CD Best Practices](https://medium.com/@yourprofile)
+- [Terraform State Management](https://medium.com/@yourprofile)
+- [Monitoring with Prometheus + Grafana](https://medium.com/@yourprofile)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

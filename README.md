@@ -63,28 +63,6 @@
 
 ---
 
-### 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/SrikanthBommadi/devops-ci-cd-templates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrikanthBommadi&repo=devops-ci-cd-templates&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/SrikanthBommadi/terraform-modules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrikanthBommadi&repo=terraform-modules&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/SrikanthBommadi/observability-stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrikanthBommadi&repo=observability-stack&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### ✍️ Blog Posts (Coming Soon...)
-<!-- BLOG-POST-LIST:START -->
-- [CI/CD Best Practices](https://medium.com/@yourprofile)
-- [Terraform State Management](https://medium.com/@yourprofile)
-- [Monitoring with Prometheus + Grafana](https://medium.com/@yourprofile)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ### 🌍 Connect With Me

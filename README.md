@@ -12,10 +12,18 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔧 DevOps Engineer passionate about streamlining deployments and managing scalable cloud infrastructure.  
-- ☁️ Skilled in AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions & more.  
-- 🧪 Focused on CI/CD automation, observability, infrastructure as code (IaC), and platform reliability.  
-- 📫 Contact me: **bommadisrikanth1@gmail.com**
+Hi, I’m **Srikanth Bommadi** 👋 — a passionate **DevOps Engineer** who loves building reliable, automated, and scalable infrastructure in the cloud.  
+
+- 🔧 Experienced in **CI/CD, Automation, and Cloud Infra** with AWS, Azure, Kubernetes, Terraform, Ansible.  
+- 🛠️ Skilled in **containerization, orchestration, monitoring, observability, and GitOps practices**.  
+- 🚀 I enjoy solving problems related to **scalability, deployment automation, and infrastructure reliability**.  
+- 📚 **Currently exploring:** Service Mesh (Istio/Linkerd), GitOps with ArgoCD, and advanced observability with OpenTelemetry.  
+
+📫 **Let’s Connect**  
+- 📧 Email: [bommadisrikanth1@gmail.com](mailto:bommadisrikanth1@gmail.com)  
+- 📱 Phone: [+1 302-525-9755](tel:+13025259755)  
+- 💬 WhatsApp: [Chat with me](https://wa.me/91995905933)  
+- 🔗 LinkedIn: [srikanthbommadi](https://www.linkedin.com/in/srikanthbommadi/)  
 
 ---
 
@@ -109,8 +117,9 @@
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanthbommadi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrikanthBommadi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanthbommadi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrikanthBommadi)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bommadisrikanth1@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-0A66C2?style=for-the-badge&logo=phone&logoColor=white)](tel:+13025259755)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91995905933)  
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bommadisrikanth1)  
-

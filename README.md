@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=DevOps+Engineer+|+Cloud+Enthusiast+|+Automation+Expert;CI%2FCD+Pipelines+%E2%9A%99%EF%B8%8F+|+Infrastructure+as+Code+%F0%9F%93%9D%EF%B8%8F+|+Monitoring+%F0%9F%94%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=1000&amp;height=100&amp;lines=DevOps+Engineer+%7C+Cloud+Enthusiast+%7C+Automation+Expert;CI%2FCD+Pipelines+%E2%9A%99%EF%B8%8F+%7C+Infrastructure+as+Code+%F0%9F%93%9D%EF%B8%8F+%7C+Monitoring+%F0%9F%94%8E" alt="Typing SVG" />
 </p>
 
 ---

@@ -110,11 +110,6 @@ Hi, I’m **Srikanth Bommadi** 👋 — a passionate **DevOps Engineer** who lov
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SrikanthBommadi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanthbommadi/)  

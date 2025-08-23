@@ -1,9 +1,9 @@
-<!-- Banner Section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/srikanthbommadi/">
     <img src="./assets/banner.png" alt="Srikanth Bommadi Banner" />
   </a>
 </p>
+
 
 ---
 <h1 align="center">Hey there, I'm Srikanth Bommadi 👋</h1>

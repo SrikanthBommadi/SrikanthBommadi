@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/srikanthbommadi/">
-    <img src="./assets/Black and Yellow Web Developer LinkedIn Banner.gif" alt="Srikanth Bommadi Banner" />
+    <img src="https://raw.githubusercontent.com/SrikanthBommadi/SrikanthBommadi/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.gif" alt="Srikanth Bommadi Banner" />
   </a>
 </p>
+
 
 <h1 align="center">Hey there, I'm Srikanth Bommadi 👋</h1>
 

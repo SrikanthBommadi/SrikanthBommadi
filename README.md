@@ -4,7 +4,6 @@
   </a>
 </p>
 
----
 <h1 align="center">Hey there, I'm Srikanth Bommadi 👋</h1>
 
 <p align="center">
